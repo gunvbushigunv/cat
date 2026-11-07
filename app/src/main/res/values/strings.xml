@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">萌宠记账</string>
+    <string name="notification_listener_label">支付通知监听</string>
+    <string name="accessibility_service_label">萌宠记账·无障碍辅助</string>
+    <string name="accessibility_service_description">作为通知监听的补充，辅助识别支付宝、微信的支付事件，让记账更轻松。</string>
+    <string name="overlay_service_label">萌宠记账悬浮窗服务</string>
+</resources>
